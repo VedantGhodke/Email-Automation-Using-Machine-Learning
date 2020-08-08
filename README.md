@@ -1,4 +1,4 @@
-# Email Automation using RPA and Machine Learning
+# Email Automation Using RPA and Machine Learning
 
 ![img](headimg.png)
 
