@@ -1,0 +1,36 @@
+<head>
+<style>
+p	{
+	font-family: 'GE Inspira', sans-serif;
+	font-size: 14px;
+	}
+ol	{
+	font-family: 'GE Inspira', sans-serif;
+	font-size: 14px;
+	}
+li	{
+	font-family: 'GE Inspira', sans-serif;
+	font-size: 14px;
+	}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+ 
+<p>Dear  !UserName!,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>Thank you for sharing your feedback with us. We apologize that our service did not satisfy your expectations.</p>
+
+<p>We would like to take this opportunity to investigate your feedback further and improve our services to provide you with a better experience in the future.</p>
+
+<p><i>Don't hesitate to reach out if you have any more questions, comments, or concerns.</i></p>
+
+<p>Thank you.</P> 
+
+<p>Regards,<br>
+XEBIA Team</p>

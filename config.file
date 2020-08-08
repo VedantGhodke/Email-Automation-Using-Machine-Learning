@@ -1,0 +1,15 @@
+{
+    "author": "Xebia-Team(Abhishek-Keerthi-Aishwarya)",
+    "email": "abhishek.verma@xebia.com",
+    "key": "3dc4d06d62534c0b81f0e1ab4d42b0b7",
+    "endpoint": "https://centralindia.api.cognitive.microsoft.com/face/v1.0/{}/",
+    "faceId": "10d4bfc9-9cd1-46b1-9483-8540ffc246ce",
+    "python": "C:\\Users\\keerthic\\AppData\\Local\\Continuum\\anaconda3\\envs\\UIPathHack",
+    "version": "3.6.5",
+    "initmethod": "init",
+    "runmethod": "run",
+    "script": "score.py",
+    "faceSetup": "setup.py",
+    "faceVerify": "verify.py",
+    "filepath": "C:\\Users\\keerthic\\Desktop\\email-automation-master\\"
+}

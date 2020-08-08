@@ -1,0 +1,36 @@
+<head>
+<style>
+p	{
+	font-family: 'GE Inspira', sans-serif;
+	font-size: 14px;
+	}
+ol	{
+	font-family: 'GE Inspira', sans-serif;
+	font-size: 14px;
+	}
+li	{
+	font-family: 'GE Inspira', sans-serif;
+	font-size: 14px;
+	}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+ 
+
+<p>Thank you for the kind words. We are delighted to hear that you were completely satisfied with our product.</p>
+
+<p>Feedback like these help us constantly improve our customer experiences by knowing what we are doing right and what we can work on. We appreciate you taking the time to send us this helpful response. </p>
+
+<p><i>Don't hesitate to reach out if you have any more questions, comments, or concerns.</i></p>
+
+
+<p>Thank you.</P> 
+
+<p>Regards,<br>
+XEBIA Team</p>
